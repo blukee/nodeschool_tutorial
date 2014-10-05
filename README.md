@@ -1,23 +1,17 @@
 nodeschool_tutorial
 ===================
 
-   LEARN YOU THE NODE.JS FOR MUCH WIN!
-    Select an exercise and hit Enter to begin
-    ─────────────────────────────────────────────────────────────────
-    » HELLO WORLD
-    » BABY STEPS
-    » MY FIRST I/O!
-    » MY FIRST ASYNC I/O!
-    » FILTERED LS                                         
-    » MAKE IT MODULAR
-    » HTTP CLIENT
-    » HTTP COLLECT
-    » JUGGLING ASYNC
-    » TIME SERVER
-    » HTTP FILE SERVER
-    » HTTP UPPERCASERER
-    » HTTP JSON API SERVER
-    ─────────────────────────────────────────────────────────────────
-    HELP
-    CREDITS
-    EXIT
+
+
+1. BABY STEPS
+2. MY FIRST I/O!
+3. MY FIRST ASYNC I/O!
+4. FILTERED LS
+5. MAKE IT MODULAR
+6. HTTP CLIENT
+7. HTTP COLLECT
+8. JUGGLING ASYNC
+9. TIME SERVER
+10. HTTP FILE SERVER
+11. HTTP UPPERCASERER
+12. HTTP JSON API SERVER
